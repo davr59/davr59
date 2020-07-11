@@ -1,7 +1,21 @@
-### Hi there 👋
+### Hello 👋
+
+- 🌱 blog: https://dispuestoaaprender.com/
+- 🤔 twitter: https://twitter.com/davidvives
+- ⚡ curious facts: chess player, comics reader, loves reading, learning new things, sushi, bbq sauce and aioli
+
+***
+
+### Hola 👋
+
+- 🌱 blog: https://dispuestoaaprender.com/
+- 🤔 twitter: https://twitter.com/davidvives
+- ⚡ datos curiosos: jugador de ajedrez, lector de comics, me gusta leer, aprender cosas nuevas, el sushi, la salsa bbq y el aioli
 
 <!--
 **davr59/davr59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
